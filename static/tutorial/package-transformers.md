@@ -1,7 +1,7 @@
 The [transformers](https://www.stackage.org/package/transformers) package provides
 useful control flow extensions for monad stacks.
 
-Even without understand how Monad transformers work, the following should
+Even without understanding how Monad transformers work, the following should
 demonstrate their practicality.
 
 Let's first describe the most simple and useful of the transforemers
